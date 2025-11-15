@@ -1,1 +1,1 @@
- https://pkomandur01.github.io/Personal-Portfolio/
+https://derricvarghese.github.io/personalportfolio/
